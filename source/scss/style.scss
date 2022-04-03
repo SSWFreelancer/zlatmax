@@ -923,9 +923,6 @@ body{
    padding-bottom: 20px;
    padding-top: 20px;
    padding-left: 15px;
-   @media(max-width: 767px){
-   	overflow: visible;
-   }
 }
 
 /* Лента слайдов */
@@ -1221,6 +1218,9 @@ body{
 		 width: 388px;
 		height: 388px;
 	}
+	&__link{
+	  width: 338px;
+	}	
 }
 
 .objects-noslider{
