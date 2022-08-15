@@ -79,6 +79,7 @@ html {
 body {
   font-family: "Montserrat", sans-serif;
   background: #FFFFFF;
+  min-width: 1395px;
 }
 
 .wrapper {
@@ -1242,7 +1243,6 @@ body {
   padding-top: 20px;
   padding-left: 15px;
 }
-
 /* Лента слайдов */
 .objects .slick-track {
   display: -webkit-box;
